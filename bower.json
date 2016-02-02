@@ -1,0 +1,19 @@
+{
+  "name": "project3_experiments",
+  "description": "Experiments with APIs",
+  "main": "index.js",
+  "authors": [
+    "Jamie King"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/king0120/project3-experiments",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
